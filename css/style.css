@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body {
+#homepage {
   background-color: #a432a6d8;
 }
 
@@ -49,4 +49,148 @@ margin: 0 10px;
 
 a {
   text-decoration: none;
+}
+
+#banana-bread {
+  background-color: #f20707c7;
+}
+
+.title-banana {
+  font-family: 'Overpass', sans-serif;
+  font-size: 50pt;
+  color: #F2A71B;
+  text-decoration: underline;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.466) 1px 0 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.image-banana {
+  display: block;
+  width: 60%;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.466) 2px 0 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.banana-h2 {
+  color: #F2A71B;
+  font-family: 'Overpass', sans-serif;
+  font-size: 22pt;
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.banana-p {
+  font-family: 'Overpass', sans-serif;
+  color: #f2a71be5;
+  font-size: 12pt;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.banana-ul {
+  font-family: 'Overpass', sans-serif;
+  color: #f2a71be5;
+  font-size: 12pt;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.steps {
+  font-family: 'Overpass', sans-serif;
+  color: #f2a71be5;
+  font-size: 12pt;
+  list-style-position: inside;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 150px;
+  text-align: center;
+}
+
+#mac-cheese {
+  background-color: #f2a71be1;
+}
+
+.title-mac {
+  font-family: 'Overpass', sans-serif;
+  font-size: 50pt;
+  color: #F20707;
+  text-decoration: underline;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.466) 1px 0 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.macncheese-img {
+  display: block;
+  width: 50%;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.466) 2px 0 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;  
+}
+
+.mac-h2 {
+  color: #F20707;
+  font-family: 'Overpass', sans-serif;
+  font-size: 22pt;
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.mac-p {
+  font-family: 'Overpass', sans-serif;
+  color: #F20707;
+  font-size: 12pt;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.mac-h3 {
+  color: #F20707;
+  font-family: 'Overpass', sans-serif;
+  font-size: 14pt;
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 15px;
+}
+
+.mac-ul {
+  font-family: 'Overpass', sans-serif;
+  color: #F20707;
+  font-size: 12pt;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.mac-ol {
+  font-family: 'Overpass', sans-serif;
+  color: #F20707;
+  font-size: 12pt;
+  list-style-position: inside;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.home {
+  color: #F20707;
+  font-family: 'Overpass', sans-serif;
+  font-size: 24pt;
+  text-decoration: underline;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 15px;
 }
