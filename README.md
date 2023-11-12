@@ -8,14 +8,15 @@ correct empty repo
 push/pull
 
 create stylesheets
-connect other pages the a homepage
-style a page
-move things around
-margins
-paddings
-links
-basic css
+connect other pages to the homepage, 
+style a page, 
+move things around, 
+margins, 
+paddings, 
+links, 
+basic css, 
 insert fonts
+style each pages background color in the same .css file
 
 
 
